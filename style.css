@@ -1,0 +1,31 @@
+
+body {
+    margin:0;
+    padding:0;
+    background: rgb(0, 0, 0);
+    opacity: 80%;
+}
+p{
+    font-size : 9px;
+    
+    line-height : 10px;
+    
+    text-align : justify;
+    
+    -webkit-background-size : cover;
+    
+    background-size : cover;
+    
+    background-repeat : no-repeat;
+    
+    background-position : center;
+    
+    background : url(img/ange.png) no-repeat center/cover;
+    
+    background-attachment : fixed;
+    
+    -webkit-background-clip : text;
+    
+    -webkit-text-fill-color : transparent;
+    
+}
